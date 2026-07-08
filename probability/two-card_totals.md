@@ -9,3 +9,4 @@ number of outcomes vs number of combinations
 
 ![image](.attachments/2e855658568d2beaf13b4fb4e0838111c58f9de9.png) 
 
+![image](.attachments/a21a4762e08649709fc23a41ba6c69861745d00a.png) 
